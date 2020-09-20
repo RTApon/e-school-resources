@@ -1,0 +1,50 @@
+.container{
+    margin-bottom: 200px;
+}
+
+.head{
+    background-color:#F0FFF0;
+    border-radius: 10px;
+}
+.button{
+   padding: 5px 10px;
+   background:#21B573;
+   border-radius: 33px;
+   border-style: none;
+   color: white;
+}
+.color{
+    color: #21B573;;
+}
+.rt{
+    background: #F8FFFB;
+    border-style: none ;
+    box-shadow:none;
+}
+.rt img{
+    width: 60px;
+    height: 73px;
+    border-style: none;
+}
+.card{
+    border-radius: 18px;
+    box-shadow: none;
+    border-style: none;
+}
+.footer{
+    background-color: #282531;
+    color: white;
+    height: 200px;
+}
+.headline{
+    color:orange;
+}
+.list{
+    list-style: none;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px grey;
+    border-radius: 15px;
+    margin: 40px;
+}
